@@ -1,4 +1,10 @@
 function Saludar ()
 {
-	alert("Hola Mundo");
+	alert($("p"));
+//$(document).ready(function(){
+//    $("p").click(function(){
+ //       $(this).hide();
+ //   });
+//});
+$("p");
 }
